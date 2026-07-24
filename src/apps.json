@@ -1,0 +1,26 @@
+[
+  {
+    "id": "newpipe",
+    "name": "NewPipe",
+    "owner": "TeamNewPipe",
+    "repo": "NewPipe",
+    "category": "Multimedia",
+    "description": "Un cliente de YouTube ligero y enfocado en la privacidad para Android."
+  },
+  {
+    "id": "ankidroid",
+    "name": "AnkiDroid",
+    "owner": "ankidroid",
+    "repo": "Anki-Android",
+    "category": "Educación",
+    "description": "Una aplicación de tarjetas de memorización espacial altamente personalizable."
+  },
+  {
+    "id": "organicmaps",
+    "name": "Organic Maps",
+    "owner": "organicmaps",
+    "repo": "organicmaps",
+    "category": "Navegación",
+    "description": "Mapas de código abierto sin conexión enfocados en la privacidad."
+  }
+]
