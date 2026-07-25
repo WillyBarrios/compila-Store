@@ -2,18 +2,18 @@
   {
     "id": "PickHistory",
     "name": "PickHistory",
-    "owner": "Compila",
+    "owner": "WillyBarrios",
     "repo": "PickHistory",
     "category": "Social Network",
     "description": "Una nueva Red social para compartiri historias memorables con tu familia, pareja o amigos"
   },
   {
-    "id": "ankidroid",
-    "name": "AnkiDroid",
-    "owner": "ankidroid",
-    "repo": "Anki-Android",
-    "category": "Educación",
-    "description": "Una aplicación de tarjetas de memorización espacial altamente personalizable."
+    "id": "Poke-Winrate",
+    "name": "Pokemon Winrate",
+    "owner": "WillyBarrios",
+    "repo": "Poke-Winrate",
+    "category": "Games",
+    "description": "Análisis y estadísticas de equipos Pokémon para jugadores competitivos."
   },
   {
     "id": "organicmaps",
