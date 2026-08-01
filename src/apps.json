@@ -16,11 +16,11 @@
     "description": "Análisis y estadísticas de equipos Pokémon para jugadores competitivos."
   },
   {
-    "id": "organicmaps",
-    "name": "Organic Maps",
-    "owner": "organicmaps",
-    "repo": "organicmaps",
-    "category": "Navegación",
-    "description": "Mapas de código abierto sin conexión enfocados en la privacidad."
+    "id": "FinanzaTrack",
+    "name": "FinanzaTrack",
+    "owner": "WillyBarrios",
+    "repo": "Presupoint",
+    "category": "Finanzas",
+    "description": "Registro de Presupuesto mensual, conteo de gastos, ahorros e ingresos"
   }
 ]
