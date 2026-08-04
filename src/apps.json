@@ -22,5 +22,13 @@
     "repo": "Presupoint",
     "category": "Finanzas",
     "description": "Registro de Presupuesto mensual, conteo de gastos, ahorros e ingresos"
+  },
+  {
+    "id": "ClockLauncher",
+    "name": "ClockLauncher",
+    "owner": "WillyBarrios",
+    "repo": "ClockLauncher",
+    "category": "Productivity",
+    "description": "Aplicación para el inicio rapido de aplicaciones"
   }
 ]
